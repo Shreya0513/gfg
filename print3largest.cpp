@@ -47,4 +47,6 @@ int main()
 
 }
 
+//here time complexity= O(n) and space complexity=O(1)
+//we can reduce the complexity by simply using the sorting algortithm 
 
